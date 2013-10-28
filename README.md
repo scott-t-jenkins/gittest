@@ -1,4 +1,4 @@
 gittest
 =======
 
-Testing Out use of git on github versus server repo
+Testing out git hub method versus git server install to verify this works correctly in server area.
